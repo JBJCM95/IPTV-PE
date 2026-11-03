@@ -1,0 +1,60 @@
+#EXTM3U
+# Canales principales en el orden solicitado; tvg-chno y prefijo numérico para conservar la numeración.
+#EXTINF:-1 tvg-chno="1" tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="01 - PRINCIPALES",01 WILLAX TV
+http://190.93.224.42/WILLAX/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="Latina.pe@SD" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="01 - PRINCIPALES",02 LATINA
+http://190.93.224.42/LATINA/index.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="FolkloreTV.pe@SD" tvg-logo="https://i.imgur.com/QdOGJes.png" group-title="01 - PRINCIPALES",03 FOLKLORE TV (HTTP PRUEBA)
+http://play.folkloretv.pe/StreamSD/index.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="01 - PRINCIPALES",04 AMÉRICA TV
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="PanamericanaTV.pe@SD" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="01 - PRINCIPALES",05 PANAMERICANA
+http://190.93.224.42/PANAMERICANA/index.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="PBO.pe@SD" tvg-logo="https://i.imgur.com/vBpxX4S.png" group-title="01 - PRINCIPALES",06 PBO
+http://190.93.224.42/PBO/index.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="TVPeru.pe@SD" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="01 - PRINCIPALES",07 TV PERÚ
+http://190.93.224.42/TV-PERU/index.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="TVPeruNoticias.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="01 - PRINCIPALES",08 TV PERÚ NOTICIAS
+http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="01 - PRINCIPALES",09 ATV
+http://190.93.224.42/ATV/index.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="01 - PRINCIPALES",10 ATV+
+http://190.93.224.42/ATV-PLUS/index.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="01 - PRINCIPALES",11 ATV SUR
+http://190.93.224.42/ATV-SUR/index.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="RPPTV.pe@SD" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="01 - PRINCIPALES",12 RPP TV
+http://190.93.224.42/RPP/index.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="GlobalTV.pe@SD" tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="01 - PRINCIPALES",13 GLOBAL TV
+http://190.93.224.42/GLOBAL/index.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="WEST.pe@SD" tvg-logo="https://aptcperu.org/wp-content/uploads/2026/04/logoMesa-de-trabajo-1-copia-5.png" group-title="01 - PRINCIPALES",14 WEST
+https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="01 - PRINCIPALES",15 L1 MAX 1080p
+http://190.93.224.42/LIGA-1-MAX/index.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="01 - PRINCIPALES",16 L1 MAX CABLERED
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+
+# Canales complementarios
+#EXTINF:-1 tvg-chno="17" tvg-id="36TVHuacho.pe@SD" tvg-logo="https://i.imgur.com/F4NZM3s.jpeg" group-title="02 - COMPLEMENTARIOS",17 36 TV HUACHO
+https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="AndesTelevision.pe@SD" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="02 - COMPLEMENTARIOS",18 ANDES TELEVISIÓN
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="CanalIPe.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png" group-title="02 - COMPLEMENTARIOS",19 CANAL IPe
+http://187.102.210.46/IPE/index.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="02 - COMPLEMENTARIOS",20 EXITOSA TV
+http://190.93.224.42/EXITOSA/index.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="LaTele.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png" group-title="02 - COMPLEMENTARIOS",21 LA TELE
+http://190.93.224.42/LA-TELE/index.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="Nativa.pe@SD" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="02 - COMPLEMENTARIOS",22 NATIVA TV
+http://187.102.210.46/NATIVATV/index.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="NativaTVSatipo.pe@SD" tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="02 - COMPLEMENTARIOS",23 NATIVA TV SATIPO
+https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="RTP.pe@SD" tvg-logo="https://i.imgur.com/nHMqAHn.jpeg" group-title="02 - COMPLEMENTARIOS",24 RTP
+https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="SolTV.pe@SD" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="02 - COMPLEMENTARIOS",25 SOL TV
+https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="TVPeruanisima.pe@SD" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="02 - COMPLEMENTARIOS",26 TV PERUANÍSIMA
+https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="TelevisionTarapoto.pe@SD" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="02 - COMPLEMENTARIOS",27 TELEVISIÓN TARAPOTO
+https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
+#EXTINF:-1 tvg-chno="28" tvg-id="UcayalinadeTelevision.pe@SD" tvg-logo="https://i.imgur.com/jBhfcqy.png" group-title="02 - COMPLEMENTARIOS",28 UCAYALINA DE TELEVISIÓN
+https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
